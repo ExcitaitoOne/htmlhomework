@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.link {
+    text-decoration: none;
+    color: #000000;  
+}
+.menu {
+    margin-bottom: 84px;
+    margin-top: 40px;
+}
+.title_mid {
+    margin-bottom: 17px;
+}
+.text {
+    margin-bottom: 37px;
+}
+.buttons {
+    margin-bottom: 162px;
+}
+
+.logo_footer {
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
